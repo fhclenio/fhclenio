@@ -3,4 +3,3 @@
 - 🌱 I'm a C# / ASP.Net developer. I’m currently learning Angular and React. 
 - 📫 How to reach me: 
 ✉️ cleniofilho61@gmail.com
-IG: cleniofilho_
